@@ -9,4 +9,3 @@ dj-database-url==2.1.0
 django-filter==2.1
 virtualenv==20.24.2
 virtualenv-clone==0.5.7
-whitenoise==6.6.0
